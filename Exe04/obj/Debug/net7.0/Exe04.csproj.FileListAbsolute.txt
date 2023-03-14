@@ -1,0 +1,15 @@
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\Exe04.exe
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\Exe04.deps.json
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\Exe04.runtimeconfig.json
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\Exe04.dll
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\Exe04.pdb
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.csproj.AssemblyReference.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfoInputs.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfo.cs
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.dll
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\refint\Exe04.dll
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.pdb
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\Exe04.genruntimeconfig.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\ref\Exe04.dll

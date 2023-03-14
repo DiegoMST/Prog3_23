@@ -1,0 +1,15 @@
+C:\Prog1\Exe\exe03\bin\Debug\net7.0\Exe03.exe
+C:\Prog1\Exe\exe03\bin\Debug\net7.0\Exe03.deps.json
+C:\Prog1\Exe\exe03\bin\Debug\net7.0\Exe03.runtimeconfig.json
+C:\Prog1\Exe\exe03\bin\Debug\net7.0\Exe03.dll
+C:\Prog1\Exe\exe03\bin\Debug\net7.0\Exe03.pdb
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.csproj.AssemblyReference.cache
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.AssemblyInfoInputs.cache
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.AssemblyInfo.cs
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.dll
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\refint\Exe03.dll
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.pdb
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\Exe03.genruntimeconfig.cache
+C:\Prog1\Exe\exe03\obj\Debug\net7.0\ref\Exe03.dll
