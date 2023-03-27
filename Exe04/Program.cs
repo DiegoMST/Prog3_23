@@ -1,17 +1,34 @@
-﻿var myFloat = 10f;
-float meuFloat = 11;
+﻿
+using Exe04;
 
-// Comvesão de  tipo numérico
-int myInteger = 100;
-meuFloat = (float)myInteger;
-decimal myDecimal = Convert.ToDecimal(myInteger);
+Console.WriteLine("***************************");
+Console.WriteLine("Escrever número por extenso");
+Console.WriteLine("***************************");
 
-var myDouble = 10d;
-myDecimal = 10m;
+Console.WriteLine("Informe um número inteiro:");
+string numero = Console.ReadLine();
 
-string meuNumeroTexto = Convert.ToString(myInteger);
-int qtdChars = meuNumeroTexto.Length;
-for(int i = 0; i < qtdChars; i++)
+int nro;
+try{
+    nro = Convert.ToInt32(numero);
+} 
+catch
 {
-    Console.WriteLine(meuNumeroTexto[i] );
+    Console.WriteLine("O numero não é válido.");
+    return;
 }
+string retorno = "";
+switch(numero.Length)
+{
+    case 1:
+        Exe04.Unidade unidade = new Unidade();
+        retorno =
+        unidade.UnidadePorExtenso(nro);
+    break;
+
+    case 2:
+        Dezena dezena = new Dezena();
+        retorno= dezena.DezenaPorExtenso(nro); 
+    break;
+}
+Console.WriteLine(retorno);

@@ -1,0 +1,15 @@
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\NumeroPorExtenso.exe
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\NumeroPorExtenso.deps.json
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\NumeroPorExtenso.runtimeconfig.json
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\NumeroPorExtenso.dll
+C:\Prog1\Exe\Exe04\bin\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.csproj.AssemblyReference.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfoInputs.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.AssemblyInfo.cs
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.dll
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\refint\NumeroPorExtenso.dll
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.pdb
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\NumeroPorExtenso.genruntimeconfig.cache
+C:\Prog1\Exe\Exe04\obj\Debug\net7.0\ref\NumeroPorExtenso.dll
