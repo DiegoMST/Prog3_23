@@ -1,0 +1,15 @@
+C:\Prog1\Exe\Recursividade\exerciciotabuada\bin\Debug\net7.0\exerciciotabuada.exe
+C:\Prog1\Exe\Recursividade\exerciciotabuada\bin\Debug\net7.0\exerciciotabuada.deps.json
+C:\Prog1\Exe\Recursividade\exerciciotabuada\bin\Debug\net7.0\exerciciotabuada.runtimeconfig.json
+C:\Prog1\Exe\Recursividade\exerciciotabuada\bin\Debug\net7.0\exerciciotabuada.dll
+C:\Prog1\Exe\Recursividade\exerciciotabuada\bin\Debug\net7.0\exerciciotabuada.pdb
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.csproj.AssemblyReference.cache
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.AssemblyInfoInputs.cache
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.AssemblyInfo.cs
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.dll
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\refint\exerciciotabuada.dll
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.pdb
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\exerciciotabuada.genruntimeconfig.cache
+C:\Prog1\Exe\Recursividade\exerciciotabuada\obj\Debug\net7.0\ref\exerciciotabuada.dll
