@@ -1,0 +1,15 @@
+C:\Prog1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.exe
+C:\Prog1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.deps.json
+C:\Prog1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.runtimeconfig.json
+C:\Prog1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.dll
+C:\Prog1\Exe\Recursividade\bin\Debug\net7.0\Recursividade.pdb
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.csproj.AssemblyReference.cache
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfoInputs.cache
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfo.cs
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.dll
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\refint\Recursividade.dll
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.pdb
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\Recursividade.genruntimeconfig.cache
+C:\Prog1\Exe\Recursividade\obj\Debug\net7.0\ref\Recursividade.dll

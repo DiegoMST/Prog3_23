@@ -1,0 +1,15 @@
+C:\Prog1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.exe
+C:\Prog1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.deps.json
+C:\Prog1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.runtimeconfig.json
+C:\Prog1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.dll
+C:\Prog1\Exe\TratamentoErros\bin\Debug\net7.0\TratamentoErros.pdb
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.AssemblyReference.cache
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.AssemblyInfo.cs
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.dll
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\refint\TratamentoErros.dll
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.pdb
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\TratamentoErros.genruntimeconfig.cache
+C:\Prog1\Exe\TratamentoErros\obj\Debug\net7.0\ref\TratamentoErros.dll
